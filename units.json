@@ -1,0 +1,76 @@
+[
+    {
+        "character_id": "TFT9_Soraka",
+        "itemNames": [
+            "TFT7_Item_ShimmerscaleHeartOfGold"
+        ],
+        "name": "Soraka",
+        "rarity": 1,
+        "tier": 2
+    },
+    {
+        "character_id": "TFT9_Ashe",
+        "itemNames": [
+            "TFT_Item_Morellonomicon"
+        ],
+        "name": "",
+        "rarity": 1,
+        "tier": 2
+    },
+    {
+        "character_id": "TFT9_Lissandra",
+        "itemNames": [],
+        "name": "",
+        "rarity": 2,
+        "tier": 2
+    },
+    {
+        "character_id": "TFT9_Taric",
+        "itemNames": [
+            "TFT_Item_ThiefsGloves",
+            "TFT_Item_GuinsoosRageblade",
+            "TFT_Item_Quicksilver"
+        ],
+        "name": "",
+        "rarity": 2,
+        "tier": 2
+    },
+    {
+        "character_id": "TFT9_Sejuani",
+        "itemNames": [
+            "TFT_Item_GargoyleStoneplate",
+            "TFT_Item_WarmogsArmor",
+            "TFT_Item_FrozenHeart"
+        ],
+        "name": "",
+        "rarity": 4,
+        "tier": 2
+    },
+    {
+        "character_id": "TFT9_Shen",
+        "itemNames": [],
+        "name": "",
+        "rarity": 4,
+        "tier": 2
+    },
+    {
+        "character_id": "TFT9_Aphelios",
+        "itemNames": [
+            "TFT_Item_GuinsoosRageblade",
+            "TFT_Item_PowerGauntlet",
+            "TFT_Item_MadredsBloodrazor"
+        ],
+        "name": "",
+        "rarity": 4,
+        "tier": 2
+    },
+    {
+        "character_id": "TFT9_RyzeShurima",
+        "itemNames": [
+            "TFT_Item_FrozenHeart"
+        ],
+        "name": "",
+        "rarity": 6,
+        "tier": 1
+    }
+]
